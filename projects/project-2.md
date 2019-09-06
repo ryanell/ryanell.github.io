@@ -5,7 +5,7 @@ image: images/yrbk2016.png
 title: Yearbooks
 permalink: projects/yearbook
 # All dates must be YYYY-MM-DD format!
-date: 2012-8-12
+date: 2012-08-12
 labels:
   - Photoshop
   - InDesign
