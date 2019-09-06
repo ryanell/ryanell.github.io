@@ -13,10 +13,8 @@ summary: A classmate and I created a short, educational videogame for our Bio 35
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/sexsimgp">
+  <img class="ui image" src="../images/sexsimwin">
 </div>
 
 Each semester there is a latex fair held by the Bio 350 class which promotes students to seek safe, consensual sex, when they do. The students of the class then form groups to create a project in order to help educate others as to what safe consensual sex entails. The projects are turned in at the fair and presented to the teacher and the various teaching assistants to be judged. Once all of the projects have been submitted, a winning project is chosen, which for fall 2018 was my partner and I's project.
