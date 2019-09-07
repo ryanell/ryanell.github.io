@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sexsim.png
+image: images/sexsimcard.png
 title: Sex Simulator 2018
 permalink: projects/simulator
 # All dates must be YYYY-MM-DD format!
