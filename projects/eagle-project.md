@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/painting.JPG
+image: images/paintingcard.JPG
 title: Eagle Project
 permalink: projects/eagleproject
 # All dates must be YYYY-MM-DD format!
