@@ -90,17 +90,17 @@
   ],
   "awards": [
     {
-      "title": "The Rank of Eagle Scout",
-      "date": "2015-11-15",
-      "awarder": "Boy Scouts of America Aloha Council",
-      "summary": "Awarded for leadership"
-    },
-    {
       "title": "Valedictorian",
       "date": "2016",
       "awarder": "J.B. Castle High School",
       "summary": "For maintaining a 4.0+ Gpa throughout attending J.B. Castle High School"
     }
+    {
+      "title": "The Rank of Eagle Scout",
+      "date": "2015-11-15",
+      "awarder": "Boy Scouts of America Aloha Council",
+      "summary": "Awarded for leadership"
+    },
   ],
   "references": [
     {
