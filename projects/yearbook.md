@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/yrbk2016.png
+image: images/yrbkcard.png
 title: Yearbooks
 permalink: projects/yearbook
 # All dates must be YYYY-MM-DD format!
