@@ -22,7 +22,7 @@ For this project I performed all of the programming in eclipse using Java, with 
 
 Our project won that year's latex fair. The teachers, TAs and other students found it to be a novelty as no other students in the past had created such a project for the fair before. 
 
-<img class="ui medium left floated rounded image" src="../images/sexsimwin.png">
+<img class="ui medium right floated rounded image" src="../images/sexsimwin.png">
 <img class="ui medium right floated rounded image" src="../images/sexsimwin2.png">
 
 
