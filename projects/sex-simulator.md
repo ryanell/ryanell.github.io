@@ -11,7 +11,7 @@ labels:
   - Biology
 summary: A classmate and I created a short, educational videogame for our Bio 350 class.
 ---
-##Background
+
 Each semester at the University of Hawaii at Manoa, a latex fair is held by the Bio 350: Sex Differences in the life cycle class which promotes students to seek safe, consensual sex. The students of the class then form groups to create a project in order to help educate others as to what safe consensual sex entails. The projects are turned in at the fair and presented to the teacher and the various teaching assistants to be judged. Once all of the projects have been submitted, a winning project is chosen, which for fall 2018 was my partner and I's project.
 
 During the fall semester of 2018 I happened to be taking my first programming class ever. At the time I had just learned about loops, if statements, etc. You know, all the basics of any programming language. The Bio project was just assigned right after I finished the second project of my programming class and I had gotten an itch for creating little games. Usually the projects for the fair consist of posters, games such as throwing a dildo into the proper hole like cornhole, or other hands on things. Between wanting to do something with my new knowledge and not wanting to have to go out to the store to purcahse supplies I decided on creating a short videogame.
