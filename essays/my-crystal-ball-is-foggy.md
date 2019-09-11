@@ -1,22 +1,20 @@
 layout: essay
 type: essay
 published: true
-title: software engineering?
+title: My Crystal Ball Is Foggy
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2019-09-06
 labels:
-  - Engineering
+  - Software Engineering
+  - Mathematics
+  - Career
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<img class="ui tiny right spaced image" src="../images/crystalball.png">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Do you remember that question? That really important one that all the adults stressed when you were a little kid? Where they would sit you down and ask all seriously "What do you want to be when you grow up?"
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
+I remember that question. It stands out distinctly to me because for as long as I can remember I've never had an answer to it. I never really put much thought into the future in all the years I've been living. When I finished high school I came to college because that's what I was told to do next, and as a result I started a degree in Mathematics and eventually added on the Data Science focus.
 
 ## In the context of programming
 
