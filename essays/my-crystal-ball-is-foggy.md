@@ -19,7 +19,7 @@ Do you remember that question? That really important one that all the adults str
 
 I remember that question. It stands out distinctly to me because for as long as I can remember I've never had an answer to it. I never really put much thought into the future. When I finished high school I came to college because that seemed like what a lot of people were doing and I didn't know what else to do. At the time of my high school graduation, I had really enjoyed my AP calculus class so I started a degree in Mathematics. I figured if I were to be learning something, I might as well be learning the most fundamental things in the universe, right?
 
-<img class="ui medium left spaced image" src="../images/purity.png">
+<img class="ui image" src="../images/purity.png">
 
 After a while thought I realized that I didn't want to spend my time doing just pure mathematics my whole life so I considered just going "down the totempole" would be a decent way to figure out what I enjoy. 
 
