@@ -13,7 +13,7 @@ labels:
 
 <img class="ui medium right spaced image" src="../images/crystalball.png">*What do you want to be when you grow up?*
 
-Do you remember that question? That really important one that all the adults stressed when you were a little kid? Where they would sit you down and have you write it down to display in your classroom?
+Do you remember that question? That really important one that all the adults stressed when you were a little kid? Where they would sit you down and have you write down your answer to display in the classroom?
 
 ## Starting at the "top"
 
@@ -25,9 +25,10 @@ After a while thought I realized that I didn't want to spend my time doing just 
 
 On my way down I came across something I didn't know existed, someplace between maths and physics in my opinion. Computer science! I found it to be the perfect mix of getting to see mathematics in action while also being able to create things at the comfort of a desk.
 
-## Developing Wares
+## Developing A Kit
 
+Since adding the data science focus to my degree, I've started building up a toolkit, similar to the one I had for mathematics. So far it's been just as much a chore to build my computer science toolkit as it was to build my mathematics one. A lot of learning the skills required to program and develop software 
 
 ## What The Future Holds
 
-It might be that looking into a crystal ball won't show you much besides a sea of fog, but I know that the outline of my future self has some experience with software engineering and programming.
+It might be that looking into a crystal ball won't show you much of my future besides a sea of fog, but I know that I won't stop learning and developing my skills in software engineering, development and lots of other fields.
