@@ -1,3 +1,4 @@
+---
 layout: essay
 type: essay
 published: true
@@ -10,11 +11,11 @@ labels:
   - Career
 ---
 
-<img class="ui tiny right spaced image" src="../images/crystalball.png">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<img class="ui tiny right spaced image" src="../images/crystalball.png">*What do you want to be when you grow up?*
 
-Do you remember that question? That really important one that all the adults stressed when you were a little kid? Where they would sit you down and ask all seriously "What do you want to be when you grow up?"
+Do you remember that question? That really important one that all the adults stressed when you were a little kid? Where they would sit you down and have you write it down to display in your classroom?
 
-I remember that question. It stands out distinctly to me because for as long as I can remember I've never had an answer to it. I never really put much thought into the future in all the years I've been living. When I finished high school I came to college because that's what I was told to do next, and as a result I started a degree in Mathematics and eventually added on the Data Science focus.
+I remember that question. It stands out distinctly to me because for as long as I can remember I've never had an answer to it. I never really put much thought into the future. When I finished high school I came to college because that's what I was told to do next. At the time I had really enjoyed my AP calculus class so I started a degree in Mathematics and eventually added on the Data Science focus.
 
 ## In the context of programming
 
@@ -32,7 +33,7 @@ The Honolulu Rail project at home has become this sort of poster child of failur
 
 The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
 
-## In the context of relationships
+## What The Future Holds
 
 So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
 
