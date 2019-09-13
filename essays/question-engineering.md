@@ -21,9 +21,10 @@ Time is money. People won't spend their time sifting through the word puke that 
 Asking your question without stopping to think or write it clearly typically ends with a decent lack of answers or sometimes mean replies. Have you ever taken an exam but found a question that didn't have enough information provided to solve the problem? If you have then that's exactly what it's like to the people you want help from. For instance, asking about 
 It's important to make sure that you "keep it simple, stupid", or give it a kiss before you ask. You also don't want to make it too simple because then you might not be able to get a detailed enough answer to your question.
 
+ <img class="ui medium right floated rounded image" src="../images/badquestion.png">
+
 For instance, Stack Overflow is a good resource to ask programming questions on but when you don't provide enough details you won't get any answers. One user was asking for help with batch inserting map data into a database. They stated what they wanted to do, insert a Map with thousands of objects into a data base with batch size 100 but said they couldn't because hashmap doesn't have an index method. But that was it. They didn't provide any example code or ask if anyone had a replacement or a substitute method to use instead. As a result, a good number of users downvoted the question and even managed to get it put on hold until the question asker could edit the question to make it better. The question asker didn't seem to have spent much time on the problem and they might have looked it up but they didn't say so and it wouldn't have been worth anyones time to ask for more details. Providing a sample case or the structure of the database would have allowed others to make comments on his work or even just asking for another solution would have gotten feedback.
 
- <img class="ui medium right floated rounded image" src="../images/badquestion.png">
  
  ## Show Your Work
  
