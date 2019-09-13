@@ -8,7 +8,7 @@ labels:
   - Questions
 ---
 
-<img class="ui medium right rounded image" src="../images/problemsolve.jpg">
+<img class="ui medium right floated rounded image" src="../images/problemsolve.jpg">
 
 ## Problems Come With Questions
 
