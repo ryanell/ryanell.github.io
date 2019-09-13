@@ -10,7 +10,7 @@ labels:
 
 <img class="ui medium right rounded image" src="../images/problemsolve.jpg">
 
-##Problems Come With Questions
+## Problems Come With Questions
 
 The main job of a software engineer is to problem solve. Regardless of what language a software engineer programs in, you need to be able to deal with bugs when they pop up and with complicated systems that need fixing. Typically your problems can be solved on your own, with either some short debugging or simply by rereading code, but there are times when you just come to the end of your patience and simply get stumped. That's when you start asking for help from others! Unfortunatly, asking for help from other software developers poses new problems on it's own. Usually being a software developer means you're busy, and if you're looking for help from another software developer it usually means that they're taking time out of their busy day to stop and help you out.
 
@@ -25,12 +25,12 @@ For instance, Stack Overflow is a good resource to ask programming questions on 
 
  <img class="ui medium right floated rounded image" src="../images/badquestion.png">
  
- ##Show Your Work
+ ## Show Your Work
  
- A lot of answer seekers find what the look for by providing simple problems that include enough details about what they are trying to show. Another Stack Overflow user was asking for help changing his code from a List<Optional<Type>> into List<Type>. He provided a few lines of code and explained how he extracted values from a map into a list but wants to change that list from List<Optional<Type>> into List<Type>. It was a straightforward and simple question and becuase he included his code, multiple answer givers were able to show exactly what he needed to write in order to solve the problem.
+A lot of answer seekers find what the look for by providing simple problems that include enough details about what they are trying to show. Another Stack Overflow user was asking for help changing his code from a List<Optional<Type>> into List<Type>. He provided a few lines of code and explained how he extracted values from a map into a list but wants to change that list from List<Optional<Type>> into List<Type>. It was a straightforward and simple question and becuase he included his code, multiple answer givers were able to show exactly what he needed to write in order to solve the problem.
   
 <img class="ui medium left floated rounded image" src="../images/goodquestion.png">
   
-  It may seem like extra work to stop and take a breath in order to formulate a precise, simple and detailed question but it's always worth it. There are even times where doing so will end up showing you what you did wrong inspire you with a better way to do what you're trying to accomplish.
+It may seem like extra work to stop and take a breath in order to formulate a precise, simple and detailed question but it's always worth it. There are even times where doing so will end up showing you what you did wrong inspire you with a better way to do what you're trying to accomplish.
 
 
