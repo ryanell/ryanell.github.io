@@ -18,8 +18,8 @@ The more than 12 years that I've spent in Scouting culminated with the planning,
 
 From a young age I began as a scout. I joined Cub Scouts in first grade and progressed to earn the arrow of light award, then joined Boy Scout troop 329 after finishing 5th grade. Over the years I learned many skills from the other boys in the troop and eventually learned to teach those skills to the younger scouts that joined over time. As I approached the age of 18, I became close to earning the rank of eagle, and in order to fulfill the requirements for the rank of eagle, I had to organize and complete a project that gives back to the community which had helped me grow into the young adult I had become.
 
-<img class="ui medium right image" src="{{ site.baseurl }}/images/painting2.JPG"> 
-<img class="ui medium left image" src="{{ site.baseurl }}/images/sanding.JPG">
+<img class="ui medium right floated rounded image" src="{{ site.baseurl }}/images/painting2.JPG"> 
+<img class="ui medium left floated rounded image" src="{{ site.baseurl }}/images/sanding.JPG">
 
 For my project, I organized the refurbishing of various shelves and cubbies for the elementary school at which our troop meets every week. I planned everything from purchasing or borrowing materials, scheduling the date and time in advance, acquiring food for the volunteers for lunch and more. I had to contact the school in order to find out which supplies to buy and what date would work for the custodians and the teacher who's shelves we were painting. During the project I helped manage the different stages of the project to keep things moving along as well as making sure those who knew how to sand and paint helped those who needed guidance, such as the younger scouts. It was tricky to make sure that each of the volunteers were always working but I had help in the form of the older scouts in the troop and the adult leader volunteers.
 
