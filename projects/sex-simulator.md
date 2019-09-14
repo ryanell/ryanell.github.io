@@ -18,11 +18,11 @@ During the fall semester of 2018 I happened to be taking my first programming cl
 
 For this project I performed all of the programming in eclipse using Java, with the help of [EZ Graphics](http://www2.hawaii.edu/~dylank/ics111/) and used art created by my Bio partner. You play the game by choosing which genital you wish to play as and then must dodge various stds while trying to acquire a condom and consent before running into another gential. Depending on what you do or don't acquire before you come into contact with another genital determines what happens. For instance, not acquiring a condom beforehand might cause you to get an std.
 
- <img class="ui right floated rounded image" src="../images/sexsimgp.png">
+ <img class="ui medium right floated rounded image" src="../images/sexsimgp.png">
 
 Our project won that year's latex fair. The teachers, TAs and other students found it to be a novelty as no other students in the past had created such a project for the fair before. 
 
-<img class="ui medium right image" src="../images/sexsimwin.png">
+<img class="ui medium right floated rounded image" src="../images/sexsimwin.png">
 
 This project opened my eyes to how programming could be used in many fields in different ways. I knew at the time that I didn't make my game that complicated or use many if any data structures but it got me excited to learn more in order to create more sophisticated programs for a plethora of purposes.
 
