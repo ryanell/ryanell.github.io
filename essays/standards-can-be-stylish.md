@@ -11,5 +11,10 @@ labels:
   - Code Standards
 ---
 
-<img class="ui medium left spaced image" src="../images/crystalball.png">*What do you want to be when you grow up?*
+## Keeping things constant
 
+<img class="ui medium left spaced image" src="../images/codestyle.png">*Oh this is awkward*
+
+
+
+## 
