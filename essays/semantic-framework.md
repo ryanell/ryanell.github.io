@@ -19,7 +19,6 @@ A good way to think about what a framework is, at least from my experience of th
 
 As with organizing photos, I would always have a hard time using a method of organization that I tried to think up but realized its super convienent to simply use a program created for that purpose. It helped reduce the amount of work I needed to do and increased the speed at which I could find photos too!
 
-In programming, a framework provides a base for you to stand on. It lets you spend your time working on your project instead of trying to create an organized and simple way to perform the specific task you wish to accomplish. Semantic UI essentially provides a lot of basic tools which otherwise would need to be recreated for each project from the ground up. 
+In programming, a framework provides a base for you to stand on. It lets you spend your time working on your project instead of trying to create an organized and simple way to perform the specific task you wish to accomplish. Semantic UI essentially provides a lot of basic tools which otherwise would need to be recreated for each project from the ground up. It even has each of its aspects listed online in a rather easy to understand format with examples showing how much easier it is than doing things without it. The only drawbacks are that you have to learn how to use it and since there are more than just a couple, the one you like best and the one that works best might not be the same framework. Granted, usually the one that is the most popular is most popular for a reason.
 
-
-<img class="ui right floated image" src="standards.png">
+<img class="ui left floated image" src="standards.png">
