@@ -6,7 +6,8 @@ title: "A Framework that Works"
 date: 2019-09-06
 labels:
   - UI Frameworks
-  - 
+  - Software Engineering
+  - HTML & CSS
 ---
 
 <img class="ui right floated image" src="photo_library_management.png">
