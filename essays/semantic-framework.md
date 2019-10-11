@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "A Framework that Works"
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-06
+date: 2019-10-10
 labels:
   - UI Frameworks
   - Software Engineering
