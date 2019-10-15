@@ -29,18 +29,18 @@
   },
   "interests": [
     {
-      "name": "theoretical mathematics",
+      "name": "Theoretical Mathematics",
       "keywords": [
-        "probability & statistics",
+        "Probability & Statistics",
       ]
     },
     {
-      "name": "data science",
+      "name": "Data Science",
       "keywords": [
       ]
     },
     {
-      "name": "machine learning",
+      "name": "Machine Learning",
       "keywords": [
       ]
     }
@@ -71,7 +71,8 @@
       "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses": [ "Calculus I, II, III & IV", "Discrete Math", "Linear Algebra", "Software Development",
+        "Algorithms", "Probability", "Film Photography", 
       ]
     }
   ],
