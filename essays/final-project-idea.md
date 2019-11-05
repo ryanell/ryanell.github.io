@@ -31,4 +31,4 @@ The Park My Car app will allow users to mark where they can park their car and c
 
 
 ### Authors
-Kiara eltagonde, Ryan Ell
+Kiara Eltagonde, Ryan Ell
