@@ -12,7 +12,7 @@ labels:
 People don’t know where there is free parking close to campus. The Zone 20 parking structure fills up too early for some students, or they do not want to purchase day passes, permits, or carpool passes.
 
 ## Solution:
-The Parking my Car app will allow users to mark where they can park their car and comment the times when they can normally find parking. Users can also put about how long it takes them to get to campus, if they need to walk, catch the Manoa Shuttle, or theBus.
+The Park My Car app will allow users to mark where they can park their car and comment the times when they can normally find parking in each area. Users can also put about how long it takes them to get to campus from the parking spot, if they need to walk, or if they can catch the Manoa Shuttle, or theBus.
 
 # Mockup Page Ideas
 * Landing Page
@@ -30,5 +30,5 @@ The Parking my Car app will allow users to mark where they can park their car an
 - Google Maps api
 
 
-###Authors
+### Authors
 Kiara eltagonde, Ryan Ell
