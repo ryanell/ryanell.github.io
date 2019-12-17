@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/eatereez-logo-text.png
+image: images/eatereez-cover.jpg
 title: Eatereez
 permalink: projects/eatereez
 # All dates must be YYYY-MM-DD format!
