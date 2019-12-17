@@ -19,3 +19,8 @@ summary: A web application created for UH Manoa students that provides informati
 <img class="ui medium right floated rounded image" src="../images/">
 
 Eatereez 
+
+
+The project details can be found at [The Github Organization Page](https://github.com/nutrition-positions/eatereez)
+
+More details about the project in its entireity can be found in the  [user guide](https://nutrition-positions.github.io/)
