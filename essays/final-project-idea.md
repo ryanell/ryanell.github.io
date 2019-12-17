@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: “Final Project Idea”
 date: 2019-11-05
 labels:
