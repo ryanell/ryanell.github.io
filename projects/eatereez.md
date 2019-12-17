@@ -16,6 +16,6 @@ labels:
 summary: A web application created for UH Manoa students that provides information about where to get food on campus.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/yrbk2016.png">
+<img class="ui medium right floated rounded image" src="../images/">
 
 Eatereez 
