@@ -22,9 +22,10 @@ UH Manoa has a plethora of choices when it comes to satisfying hunger; almost to
  student. Eatereez provides a simple and streamlined way to discover previously unknown eateries located around campus. 
  
  The application's homepage can be accessed [here](https://nutrition-positions.github.io/)
+ 
  The source code can be found on Github [here](https://github.com/nutrition-positions/eatereez)
  
- <img class="ui large floated rounded image" src="../images/eatereez/Final-landing.png">
+ <img class="ui rounded image" src="../images/eatereez/Final-landing.png">
  
 ## Eater-Easy To Use
  
@@ -33,13 +34,13 @@ UH Manoa has a plethora of choices when it comes to satisfying hunger; almost to
    nothing, they can change the search query and look further by using the filters provided on the list of
     eateries page.
     
-<img class="ui large right floated rounded image" src="../images/eatereez/Final-food-finder.png">  
+<img class="ui huge right floated rounded image" src="../images/eatereez/Final-food-finder.png">  
 
   By clicking on the name of an eatery, or the "more info" link included in the information shown, the user will be
    taken to a details page that provides a complete description of the eatery along with a menu and reviews of that
     eatery written by fellow UH Manoa students, faculty and staff.
     
-<img class="ui large left floated rounded image" src="../images/eatereez/Final-restaurant-details.png">  
+<img class="ui huge left rounded image" src="../images/eatereez/Final-restaurant-details.png">  
 
 Users can only write and report reviews, as well as submit possible new eateries if they are logged in. Users
  are also able to delete the reviews that they write in case they make a mistake while writing their review.
