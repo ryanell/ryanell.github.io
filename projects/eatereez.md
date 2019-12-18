@@ -18,9 +18,17 @@ summary: A web application created for UH Manoa students that provides informati
 
 <img class="ui medium right floated rounded image" src="../images/">
 
-Eatereez 
+## A Better Way to Eat
+
+UH Manoa has a plethora of choices when it comes to satisfying hunger; almost too many to keep track of for any one
+ student. Eatereez provides a simple and streamlined way to discover previously unknown eateries located around
+  campus. 
+ 
+ The application's homepage can be accessed [here](https://nutrition-positions.github.io/)
+ The source code can be found on [The Github Organization Page](https://github.com/nutrition-positions/eatereez)
+ 
+ ## Eater-Easy To Use
+ 
 
 
-The project details can be found at [The Github Organization Page](https://github.com/nutrition-positions/eatereez)
 
-More details about the project in its entireity can be found in the  [user guide](https://nutrition-positions.github.io/)
