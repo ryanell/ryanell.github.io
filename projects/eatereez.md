@@ -42,7 +42,7 @@ UH Manoa has a plethora of choices when it comes to satisfying hunger; almost to
     
 <img class="ui huge left rounded image" src="../images/eatereez/Final-restaurant-details.png">  
 
-Users can only write and report reviews, as well as submit possible new eateries if they are logged in. Users
+Once logged in, users can write and report reviews, as well as submit possible new eateries. Users
  are also able to delete the reviews that they write in case they make a mistake while writing their review.
  
 ### Something Special
