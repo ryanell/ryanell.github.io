@@ -47,7 +47,8 @@ Once logged in, users can write and report reviews, as well as submit possible n
  
 ### Admin Management
  
-Site admins are able to add, edit and remove eateries as well as reported reviews and can see the user submitted
+Site admins are able to add, edit and remove eateries as well as reports and reported reviews, and can see the user
+ submitted
  eateries in order to include them in the user accessible database.
  
 ### Something Special
@@ -56,19 +57,14 @@ On the landing page of the application, three random eateries are displayed whic
  discover an
  eatery which they might not previously have known existed.
  
- The 
+ The map page allows users to find nearby restaurants based on their location on campus. Clicking on a pin and
+  choosing "more info" takes the user to a list of eateries that can be found at the chosen location so users don't
+   have to read through the list of locations.
 
 ## Developing More Than Just the App
 
 Throughout working on this project, I developed greatly as a software developer, team member, leader, and teacher. I
- had a big hand in both the front end and back end development of the project. I implemented the layout of the various
-  pages as well as some of the database that we used in order to store and retrieve information about the
-   eateries. I created most of the admin side of the application, along with 
-    
- including the interface which allows admins to
-    add and edit eateries, evaluate and remove reports and the relevant reviews, evaluate user
-     submitted eateries and all of the relevant databases for those actions. For the users, I created the navigation bar at the top, along with the footer that's displayed on the bottom  of
-      each page and implemented the details page which reads out the relevant information store in the database.
-      
-Completing this project presented the challenge of working effectively with a group
-
+ had a big hand in both the front end and back end development of the project. I implemented the layout of various
+  pages as well as a portion of the database that we used to store and retrieve information. I created the majority of
+   the admin side of the application, along with the navigation bar, footer and the page containing eatery details.
+ 
