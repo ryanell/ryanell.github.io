@@ -25,7 +25,7 @@ UH Manoa has a plethora of choices when it comes to satisfying hunger; almost to
   campus. 
  
  The application's homepage can be accessed [here](https://nutrition-positions.github.io/)
- The source code can be found on [The Github Organization Page](https://github.com/nutrition-positions/eatereez)
+ The source code can be found on Github [here](https://github.com/nutrition-positions/eatereez)
  
 ## Eater-Easy To Use
  
