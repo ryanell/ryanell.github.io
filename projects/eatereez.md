@@ -16,8 +16,6 @@ labels:
 summary: A web application created for UH Manoa students that provides information about where to get food on campus.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/eatereez/Final-landing.png">
-
 ## A Better Way to Eat
 
 UH Manoa has a plethora of choices when it comes to satisfying hunger; almost too many to keep track of for any one
@@ -26,6 +24,8 @@ UH Manoa has a plethora of choices when it comes to satisfying hunger; almost to
  The application's homepage can be accessed [here](https://nutrition-positions.github.io/)
  The source code can be found on Github [here](https://github.com/nutrition-positions/eatereez)
  
+ <img class="ui large floated rounded image" src="../images/eatereez/Final-landing.png">
+ 
 ## Eater-Easy To Use
  
  The website lets users get right into finding information on the landing page by presenting them with a search bar
@@ -33,13 +33,13 @@ UH Manoa has a plethora of choices when it comes to satisfying hunger; almost to
    nothing, they can change the search query and look further by using the filters provided on the list of
     eateries page.
     
-<img class="ui medium right floated rounded image" src="../images/eatereez/Final-food-finder.png">  
+<img class="ui large right floated rounded image" src="../images/eatereez/Final-food-finder.png">  
 
   By clicking on the name of an eatery, or the "more info" link included in the information shown, the user will be
    taken to a details page that provides a complete description of the eatery along with a menu and reviews of that
     eatery written by fellow UH Manoa students, faculty and staff.
     
-<img class="ui medium right floated rounded image" src="../images/eatereez/Final-restaurant-details.png">  
+<img class="ui large left floated rounded image" src="../images/eatereez/Final-restaurant-details.png">  
 
 Users can only write and report reviews, as well as submit possible new eateries if they are logged in. Users
  are also able to delete the reviews that they write in case they make a mistake while writing their review.
