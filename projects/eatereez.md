@@ -45,19 +45,30 @@ UH Manoa has a plethora of choices when it comes to satisfying hunger; almost to
 Once logged in, users can write and report reviews, as well as submit possible new eateries. Users
  are also able to delete the reviews that they write in case they make a mistake while writing their review.
  
+### Admin Management
+ 
+Site admins are able to add, edit and remove eateries as well as reported reviews and can see the user submitted
+ eateries in order to include them in the user accessible database.
+ 
 ### Something Special
 
-On the landing page of the application, 
+On the landing page of the application, three random eateries are displayed which allow the user to
+ discover an
+ eatery which they might not previously have known existed.
+ 
+ The 
 
 ## Developing More Than Just the App
 
 Throughout working on this project, I developed greatly as a software developer, team member, leader, and teacher. I
- had a big hand in both the front end and back end development of the project. Creating the layout of the various
-  pages and the structure of the database that we used in order to best store and retrieve information about the
-   restaurants.
+ had a big hand in both the front end and back end development of the project. I implemented the layout of the various
+  pages as well as some of the database that we used in order to store and retrieve information about the
+   eateries. I created most of the admin side of the application, along with 
     
-I created most of the admin side of the application, including the interface which allows admins to
-    add and edit eateries, evaluate and remove reports and the relevant reviews from the site, evaluate user
+ including the interface which allows admins to
+    add and edit eateries, evaluate and remove reports and the relevant reviews, evaluate user
      submitted eateries and all of the relevant databases for those actions. For the users, I created the navigation bar at the top, along with the footer that's displayed on the bottom  of
-      each page.
+      each page and implemented the details page which reads out the relevant information store in the database.
+      
+Completing this project presented the challenge of working effectively with a group
 
