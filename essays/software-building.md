@@ -19,7 +19,7 @@ Software engineering is complicated. In order to create excellent software you n
    smoother, and making sure to test each part of the project as it comes together is imperative to creating a success.
 
 
-<img class="ui right floated rounded image" src="../images/software-building/foundation.gif">
+<img class="ui right medium floated rounded image" src="../images/software-building/foundation.gif">
 
 ### A Seamless Blueprint
 
@@ -54,6 +54,12 @@ This method of project management is something that I will be able to use in all
 ### Rigorous Stress Testing
 
 Even once a building or a structure is built, regardless of how well planned out, it has to undergo tests to make sure that it can fulfill it's job and
- not crack under pressure. In other words, when you finish the project, you're not actually done.
+ not crack under pressure. In other words, when you finish the project, you're not actually done. In fact, testing
+  should happen throughout the entire duration of the project because otherwise how will you know if what you're
+   making worked?
  
- Reaching the end is the perfect time to 
+ <img class="ui left floated rounded image" src="../images/software-building/spiders.jpg">
+ 
+ As I completed each task so diligently assigned by the newly implemented Issue Driven Project Management, I spent a
+  decent amount of time checking to make sure that each new addition wouldn't break at the slightest gust of wind or
+   sudden appearance of spiders.
