@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Software Building
+title: Software Building Requires 
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-17
 labels:
@@ -80,5 +80,6 @@ Even once a building or a structure is built, regardless of how well planned out
 
 While tools with fancy names like "Agile Project Management" and "white box tests" might seem important thanks to
  their flashy-ness, the biggest lesson that I learned when developing my software engineering skills and knowlege is
-  that no matter what task you need to accomplish, keeping a cool head, using your resources properly and working a
-   little bit every day is how to reach any goal you desire.
+  that no matter what task you need to accomplish, keeping a cool head, breaking down difficult problems and working
+   on them a
+   little bit every day is how to succeed.
