@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Software Building Requires 
+title: Building Software Requires Breaking It First
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-17
 labels:
