@@ -6,9 +6,9 @@ title: Building Software Requires Breaking It First
 date: 2019-12-17
 labels:
   - Software Engineering
-  - Technology Stacks
   - Agile Project Management
   - Testing
+  - Reflection
 ---
 
 ## Tools Of The Trade
