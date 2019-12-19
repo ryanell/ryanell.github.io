@@ -76,4 +76,9 @@ Even once a building or a structure is built, regardless of how well planned out
           reasonable way to solve them, which would also result in major changes needing to be made or great loss of
            functionality.
            
-#### 
+### The Most Important Tools
+
+While tools with fancy names like "Agile Project Management" and "white box tests" might seem important thanks to
+ their flashy-ness, the biggest lesson that I learned when developing my software engineering skills and knowlege is
+  that no matter what task you need to accomplish, keeping a cool head, using your resources properly and working a
+   little bit every day is how to reach any goal you desire.
