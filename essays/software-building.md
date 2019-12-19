@@ -24,7 +24,8 @@ Recently I've learned that software engineering is complicated. In order to crea
 
 Just like constructing a building, engineering software requires a solid blueprint that depicts all of the
  features of your software. Planning
- out what your finished product will be is the most important step in creating something; similar to how you need a good
+ out what your finished product will be is the most important step in creating something which is similar to how you
+  need a good
   foundation before you can build a building. Issue Driven Project Management is a part of Agile Project Management
    that can help increase the productivity of a team by leaps and bounds if used effectively. Issue Driven Project
     Management

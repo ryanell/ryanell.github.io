@@ -64,8 +64,9 @@ On the landing page of the application, three random eateries are displayed whic
 
 ## Developing More Than Just the App
 
-Throughout working on this project, I developed greatly as a software developer, team member, leader, and teacher. I
- had a big hand in both the front end and back end development of the project. I implemented the layout of various
+Throughout working on this project, I developed significantly as a software developer, team member, leader, and
+ teacher. I
+ had a big hand in both the front and back end development of the project; I implemented the layout of various
   pages as well as a portion of the database that we used to store and retrieve information. I created the majority of
    the admin side of the application, along with the navigation bar, footer and the page containing eatery details.
  
