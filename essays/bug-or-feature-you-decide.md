@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: "Bug or A Feature, You Decide"
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06

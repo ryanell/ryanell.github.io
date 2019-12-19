@@ -15,7 +15,8 @@ labels:
 
 Software engineering is complicated. In order to create excellent software you need to build
  up an understanding of the various parts that compose it and the tools that you'll need to shape those parts to
-  work most efficently together. 
+  work most efficently together. Having each of the pieces that need making laid out makes everything flow much
+   smoother, and making sure to test each part of the project as it comes together is imperative to creating a success.
 
 
 <img class="ui right floated rounded image" src="../images/software-building/foundation.gif">
@@ -30,16 +31,19 @@ Just like constructing a building, engineering software requires a solid bluepri
     the different group members tasks in a way that lets them be completed in tandem. It sounds easy, but I've
      discovered that it actually takes a decent amount of experience to implement properly. 
       
-Personally, I used to find it very enticing to jump right into a project and start working instead of taking the
+#### Like most plans, it's best make before starting the project 
+      
+Personally, I find it very enticing to jump right into a project and start writing code instead of taking the
  time to sit down and plan out each of the parts of the project. I had recently experienced working on a web
-  application using this Issue Driven Project Management and at first we didn't do a great job of planning out what
-   features we wanted in
-   our project. We all just breifely went over what basic features we each wanted and then started on our way. As a
+  application using this new Issue Driven Project Management idea and at first I didn't do a great job of
+   planning. My group and I just briefly went over what basic features we each wanted and then started on our way. As a
    result, my team members and I ended up having to re-write a lot of code because we were working on the same part
-    of the project at the same time, or creating different features that clashed with each other. After realizing our
+    of the project at the same time, or built parts of the application that couldn't function with each other. After
+     realizing our
      project was full of mistakes, we sat
      down and wrote out which features each part of our sofware needed implemented that could be done at the same
-      time. Doing so allowed each group member to work at the same time and drastically reduced the time it took to finish the project. 
+      time and what couldn't. Doing so allowed each group member to work at the same time which drastically sped up
+       our rate of progress. 
       
 This method of project management is something that I will be able to use in all types of software engineer projects, as well as in other fields of work. Being able to break down difficult tasks into smaller pieces allows for faster
  and more efficent work to be done as well as for multiple parts to be done at the same time (if multiple people are
@@ -49,7 +53,7 @@ This method of project management is something that I will be able to use in all
    
 ### Rigorous Stress Testing
 
-Even once a building or a structure is built, regardless of how well planned out, it has to undergo tests to make sure
- that it can
- fulfill it's job and
- not crack under pressure.
+Even once a building or a structure is built, regardless of how well planned out, it has to undergo tests to make sure that it can fulfill it's job and
+ not crack under pressure. In other words, when you finish the project, you're not actually done.
+ 
+ Reaching the end is the perfect time to 
