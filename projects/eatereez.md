@@ -29,7 +29,9 @@ UH Manoa has a plethora of choices when it comes to satisfying hunger; almost to
  
 ## Eater-Easy To Use
  
- The website lets users get right into finding information on the landing page by presenting them with a search bar
+ The website lets users get right into finding information on the landing page, the page first presented when the
+  application is opened (as shown above), by
+  presenting them with a search bar
   at the start. From there they can look for the exact eatery they want by name, or if their search results in
    nothing, they can change the search query and look further by using the filters provided on the list of
     eateries page.
@@ -43,13 +45,13 @@ UH Manoa has a plethora of choices when it comes to satisfying hunger; almost to
 <img class="ui huge left rounded image" src="../images/eatereez/Final-restaurant-details.png">  
 
 Once logged in, users can write and report reviews, as well as submit possible new eateries. Users
- are also able to delete the reviews that they write in case they make a mistake while writing their review.
+ are also able to delete the reviews that they write in case they make a mistake.
  
 ### Admin Management
  
-Site admins are able to add, edit and remove eateries as well as reports and reported reviews, and can see the user
- submitted
- eateries in order to include them in the user accessible database.
+Site admins are able to add, edit, and remove eateries as well as reports and reported reviews. Furthermore, admins can
+ also
+ access user submitted eateries to include them in the viewable database.
  
 ### Something Special
 
@@ -58,8 +60,7 @@ On the landing page of the application, three random eateries are displayed whic
  eatery which they might not previously have known existed.
  
  The map page allows users to find nearby restaurants based on their location on campus. Clicking on a pin and
-  choosing "more info" takes the user to a list of eateries that can be found at the chosen location so users don't
-   have to read through the list of locations.
+  choosing "more info" takes the user to a list of eateries that can be found at the chosen location.
 
 ## Developing More Than Just the App
 
