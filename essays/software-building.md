@@ -60,7 +60,7 @@ Even once a building or a structure is built, regardless of how well planned out
   should happen throughout the entire duration of the project because otherwise how will you know if what you're
    making worked?
  
- <img class="ui left floated rounded image" src="../images/software-building/spiders.jpg">
+ <img class="ui left medium floated rounded image" src="../images/software-building/spiders.jpg">
  
  As I completed each task so diligently assigned by the newly implemented Issue Driven Project Management, I spent a
   decent amount of time checking to make sure that each new addition wouldn't break at the slightest gust of wind or
