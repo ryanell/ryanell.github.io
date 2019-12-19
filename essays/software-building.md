@@ -13,7 +13,9 @@ labels:
 
 ## Tools Of The Trade
 
-Software engineering is complicated. In order to create excellent software you need to build
+As I've learned recently by doing, software engineering is complicated. In order to create excellent software you
+ need to
+ build
  up an understanding of the various parts that compose it and the tools that you'll need to shape those parts to
   work most efficently together. Having each of the pieces that need making laid out makes everything flow much
    smoother, and making sure to test each part of the project as it comes together is imperative to creating a success.
