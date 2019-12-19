@@ -21,7 +21,7 @@ As I've learned recently by doing, software engineering is complicated. In order
    smoother, and making sure to test each part of the project as it comes together is imperative to creating a success.
 
 
-<img class="ui right medium floated rounded image" src="../images/software-building/foundation.gif">
+<img class="ui right medium floated rounded image" src="../images/software-building/blueprint.png">
 
 ### A Seamless Blueprint
 
