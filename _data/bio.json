@@ -9,8 +9,8 @@
     "summary": "I am studying for a B.S. in Mathematics with a Focus on Data Science at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96744",
+      "city": "Kaneohe",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -52,6 +52,11 @@
       "keywords": [
         "Java",
         "Javascript",
+        "Python",
+        "HTML",
+        "CSS",
+        "Semantic UI React",
+        "Meteor & Galaxy",
       ]
     },
     {
@@ -60,6 +65,7 @@
       "keywords": [
         "MacOS",
         "Git/GitHub",
+        "IntelliJ",
       ]
     }
   ],
@@ -67,16 +73,27 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Mathematics with data science (expected Spring, 2020)",
-      "studyType": "B.S.",
+      "studyType": "Bachelors of Science",
       "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [ "Calculus I, II, III & IV", "Discrete Math", "Linear Algebra", "Software Development",
-        "Algorithms", "Probability", "Film Photography",
+      "courses": [ "Discrete Math", "Linear Algebra", "Software Development",
+        "Algorithms", "Machine Learning", "Probability", "Statistics", "Calculus I-IV", "Film Photography",
       ]
     }
   ],
   "work": [
+    {
+      "company": "American Red Cross",
+      "position": "Volunteer Services: Volunteer Connection Lead",
+      "website": "redcross.org",
+      "startDate": "2020-01-01",
+      "endDate": "Present",
+      "summary": "Oversee the utilization and access of Volunteer Connection (VCN), the official American Red Cross Volunteer management system",
+      "highlights": [
+        "Teaching VCN to new volunteers", "Troubleshooting technical difficulties", "Managing a growing team",
+      ]
+    },
     {
       "company": "City and County of Honolulu",
       "position": "Lifeguard",
@@ -85,7 +102,7 @@
       "endDate": "Present",
       "summary": "Public relations and rule enforcement",
       "highlights": [
-        "Light pool maintenance, instruction of learn to swim lessons, general lifeguarding duties"
+        "Light pool maintenance", "Instruction of learn to swim lessons", "General lifeguarding duties",
       ]
     },
     {
@@ -96,7 +113,7 @@
       "endDate": "2014",
       "summary": "Running Program Events and Teaching",
       "highlights": [
-        "Showing high levels of enthusiasum, teaching scout skills and merit badge classes while inspiring enthusiasm in the youth"
+        "Teaching scout skills and merit badge classes while inspiring enthusiasm in the youth", "Showing high levels of enthusiasum"
       ]
     }
   ],
@@ -111,7 +128,7 @@
       "title": "The Rank of Eagle Scout",
       "date": "2015-11-15",
       "awarder": "Boy Scouts of America Aloha Council",
-      "summary": "Awarded for leadership"
+      "summary": "Awarded for demonstrating leadership, Scout Spirit, and living the Scout Oath and Law"
     }
   ],
   "references": [
