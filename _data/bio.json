@@ -3,8 +3,8 @@
     "name": "Ryan Ell",
     "label": "Underemployed Recent Graduate",
     "picture": "https://ryanell.github.io/images/Ryan.png",
-    "email": "ryanell@hawaii.edu",
-    "phone": "808-721-1021",
+    "email": "ryan.ell42@gmail.com",
+    "phone": "",
     "website": "https://ryanell.github.io",
     "summary": "A Graduate from University of Hawaii at Manoa with a Bachelors of Science of Mathematics with Data Science. Searching for career opportunities in the COVID-19 job market.",
     "location": {
@@ -37,11 +37,19 @@
     {
       "name": "Data Science",
       "keywords": [
+        "Machine Learning",
       ]
     },
     {
-      "name": "Machine Learning",
+      "name": "STEM",
       "keywords": [
+        "Science, Technology, Engineering and Mathematics",
+      ]
+    },
+    {
+      "name": "Renewable Resources",
+      "Keywords": [
+        "Green Energy",
       ]
     }
   ],
@@ -72,13 +80,14 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Mathematics with data science (expected Spring, 2020)",
+      "area": "Mathematics with data science",
       "studyType": "Bachelors of Science",
       "startDate": "2016-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2020-5-16",
+      "gpa": "3.28",
       "courses": [ "Discrete Math", "Linear Algebra", "Software Development",
-        "Algorithms", "Machine Learning", "Probability", "Statistics", "Calculus I-IV", "Film Photography",
+        "Algorithms", "Machine Learning", "Probability", "Statistics", "Vector Analysis", "Numerical Analysis", "Calculus I-IV",
+        "Film Photography",
       ]
     }
   ],
