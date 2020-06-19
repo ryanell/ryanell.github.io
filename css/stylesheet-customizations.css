@@ -1,5 +1,5 @@
 .border-other {
-  border-top: 10px solid #d5ede4; // gives it the border at top and bottom
+  border-top: 10px solid #d4eeff; // gives it the border at top and bottom
   left: 0;
   right: 0;
 }
@@ -15,11 +15,11 @@
 }
 
 p.menu-buttons:hover {
-  color: #d5ede4 !important;
+  color: #d4eeff !important;
 }
 
 .big.icon:hover {
-  color: #d5ede4 !important;
+  color: #d4eeff !important;
 }
 
 .big.icon {
@@ -55,13 +55,13 @@ body {
 }
 
 #border-home {
-  border-top: 10px solid #d5ede4; // gives it the border
+  border-top: 10px solid #d4eeff; // gives it the border
   left: 0;
   right: 0;
 }
 
 #image {
-  border: 5px solid #d5ede4; //mint
+  border: 5px solid #d4eeff; //mint
   border-radius: 500px;
 }
 
@@ -78,7 +78,7 @@ body {
 }
 
 .huge.icon:hover {
-  color: #d5ede4 !important;
+  color: #d4eeff !important;
 }
 
 .huge.icon {
