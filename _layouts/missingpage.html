@@ -1,27 +1,40 @@
 ---
 layout: default
 ---
+<div class="border-other">
+  <div id="ui three item menu">
+    <a href="{{ site.baseurl}}/files/RESUME.pdf" target="_blank" class="item">
+      <p class="menu-buttons">
+        Resume
+      </p>
+    </a>
+    <a href="{{ site.baseurl}}/bio/"  class="item">
+      <p class="menu-buttons">
+        About me
+      </p>
+    </a>
+    <a href="{{ site.baseurl}}/projects/" class="item">
+      <p class="menu-buttons">
+        Projects
+      </p>
+    </a>
+    <div id="home-icon">
+      <a href="{{ site.baseurl}}/">
+        <i class="big home icon"></i>
+      </a>
+    </div>
+  </div>
 
-{% include menubar.html active="" %}
+  <div style="padding-top: 20px" class="ui container ">
+    <p class="ui center aligned">I'm sorry, that URL could not be found. Perhaps you were looking for one of the following pages:</p>
 
-<div style="padding-top: 20px" class="ui container ">
-  <p>I'm sorry, that URL could not be found. Perhaps you were looking for one of the following:</p>
+    <h3><a href="{{ site.baseurl }}/projects/">Projects</a></h3>
 
-  <h3>Essays</h3>
-  <ul>
-    {% assign essay_pages = site.pages | where: "type", "essay" | sort: "date" | reverse %}
-    {% for page in essay_pages %}
-      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-    {% endfor %}
-  </ul>
+    <h3 class="ui centered"><a href="{{ site.baseurl}}/essays/" class="item">Essays</a></h3>
 
-  <h3>Projects</h3>
-  <ul>
-    {% assign project_pages = site.pages | where: "type", "project" | sort: "title" %}
-    {% for page in project_pages %}
-    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-    {% endfor %}
-  </ul>
+    <h3 class="ui center aligned"><a href="{{ site.baseurl}}/bio/" class="item">About Me</a></h3>
 
+    <h3><a href="{{ site.baseurl}}/files/RESUME.pdf" target="_blank" class="item">Resume</a></h3>
+
+  </div>
 </div>
-

@@ -1,23 +1,9 @@
-  
----
-# Provide front matter so Jekyll processes this file as SASS.
----
-
-// Put your custom CSS here if you want to override the defaults.
-// Here are some common customizations for colors
-
-// GLOBAL CSS STARTS //
-// ~~~~~~~~~~~~~~~~~ //
 .border-other {
   border-top: 10px solid #d5ede4; // gives it the border at top and bottom
   left: 0;
   right: 0;
 }
-// GLOBAL CSS ENDS //
-// ~~~~~~~~~~~~~~~ //
 
-// MENU CSS STARTS //
-// ~~~~~~~~~~~~~~~ //
 .menu-buttons {
   font-family: 'Quicksand', serif !important;
   font-size: 20px;
@@ -42,9 +28,6 @@ p.menu-buttons:hover {
   padding-left: 20px;
 }
 
-// ~~~~~~~~~~~~~~~~~~~~~ //
-//  HOME PAGE CSS STARTS //
-// Customize the background color
 body {
   background-color: #FFFFFF; //white
   //background-color: #E8E8E8;
@@ -104,16 +87,10 @@ body {
   padding-left: 20px;
 }
 
-// Customize the home page icon colors
 .icon-color {
    color: #000000;
 }
 
-// HOME PAGE CSS ENDS //
-// ~~~~~~~~~~~~~~~~~~ //
-
-// PROJECTS PAGE CSS STARTS //
-// ~~~~~~~~~~~~~~~~~~~~~~~~ //
 #projects {
   padding-top: 50px;
 }
@@ -126,8 +103,7 @@ body {
   max-width: 900px !important;
 }
 
-// Customize the menubar color
 .ui.menu {
-  // background: $background-start;]
+  // background: background-start;]
   background : #7a8999; // grayish
 }

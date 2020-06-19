@@ -1,8 +1,32 @@
 ---
 layout: default
 ---
+<div class="border-other">
+  <div id="ui three item menu">
+    <a href="{{ site.baseurl}}/bio/" target="_blank" class="item">
+      <p class="menu-buttons">
+        Resume
+      </p>
+    </a>
+    <a href="{{ site.baseurl}}/bio" class="item">
+      <p class="menu-buttons">
+        About me
+      </p>
+    </a>
+    <a href="{{ site.baseurl}}/essays/" class="item">
+      <p class="menu-buttons">
+        Essays
+      </p>
+    </a>
+    <div id="home-icon">
+      <a href="{{ site.baseurl}}/">
+        <i class="big home icon"></i>
+      </a>
+    </div>
+  </div>
 
-{% include menubar.html active="projects" %}
+  <div id="projects" class="ui container">
+    {{ content }}
+  </div>
 
-{{ content }}
-
+</div>

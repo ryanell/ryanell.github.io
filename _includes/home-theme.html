@@ -1,0 +1,53 @@
+<!-- Home page design with large image to left of bio info. -->
+{% assign essay_pages = site.pages | where: "type", "essay"  | where_exp: "page", "page.draft != true" %}
+{% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
+{% assign num_essays = essay_pages.size %}
+{% assign num_projects = project_pages.size %}
+
+<div id="border-home">
+  <div id="ui three item menu">
+    <a href="{{ site.baseurl}}/files/RESUME.pdf" target="_blank" class="item">
+      <p class="menu-buttons">
+        Resume
+      </p>
+    </a>
+    <a href="{{ site.baseurl}}/bio/" class="item">
+      <p class="menu-buttons">
+        About Me
+      </p>
+    </a>
+    <a href="{{ site.baseurl}}/essays/" class="item">
+      <p class="menu-buttons">
+        Essays
+      </p>
+    </a>
+    <a href="{{ site.baseurl}}/projects/" class="item">
+      <p class="menu-buttons">
+        Projects
+      </p>
+    </a>
+  </div>
+
+  <div class="center-grid" style="
+    display: flex;
+    width: 100vw !important">
+    <div class="ui three column centered grid container">
+      <!--  <div class="ui fluid container">-->
+      <div class="six wide center aligned column">
+        <div class="ui fluid circular image">
+          <img id='image' style="max-width: 300px" src="{{ site.data.bio.basics.picture }}">
+        </div>
+      </div>
+
+      <div class="ten wide left aligned column">
+        <div id="middle-text">
+          <h2 id="name" class="header no-bottom">{{ site.data.bio.basics.name }}</h2>
+          <p id="label" class="">{{ site.data.bio.basics.label }}</p>
+          <p id="home-icons" style=" text-align: left">
+            {% include home-network-links.html %}
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
