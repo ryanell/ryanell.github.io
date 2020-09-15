@@ -100,7 +100,7 @@
       "endDate": "2020-07-31",
       "summary": "Oversee the utilization and access of Volunteer Connection (VCN), the official American Red Cross Volunteer management system",
       "highlights": [
-        "Teaching VCN to new volunteers", "Troubleshooting technical difficulties", "Managing a growing team", "Training others in the responsibilities of the role",
+        "Teaching VCN to new volunteers", "Troubleshooting technical difficulties", "Managing a growing team", "Training others in the responsibilities of the role of VCN Lead",
       ]
     },
     {
@@ -131,13 +131,13 @@
       "title": "Valedictorian",
       "date": "2016",
       "awarder": "J.B. Castle High School",
-      "highlights": "For maintaining a 4.0+ Gpa throughout attending J.B. Castle High School"
+      "summary": "For maintaining a 4.0+ Gpa throughout attending J.B. Castle High School"
     },
     {
       "title": "The Rank of Eagle Scout",
       "date": "November 15, 2015",
       "awarder": "Boy Scouts of America: Aloha Council",
-      "highlights": "Awarded for demonstrating leadership, Scout Spirit, and living the Scout Oath and Law"
+      "summary": "Awarded for demonstrating leadership, Scout Spirit, and living the Scout Oath and Law"
     }
   ],
   "references": [
