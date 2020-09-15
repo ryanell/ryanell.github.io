@@ -24,32 +24,32 @@
         "network": "linkedin",
         "username": "Ryan Ell",
         "url": "http://linkedin.com/in/ryan-ell-6702b8192/"
-      },
+      }
     ]
   },
   "interests": [
     {
       "name": "Theoretical Mathematics",
       "keywords": [
-        "Probability & Statistics",
+        "Probability & Statistics"
       ]
     },
     {
       "name": "Data Science",
       "keywords": [
-        "Machine Learning",
+        "Machine Learning"
       ]
     },
     {
       "name": "STEM",
       "keywords": [
-        "Science, Technology, Engineering and Mathematics",
+        "Science, Technology, Engineering and Mathematics"
       ]
     },
     {
       "name": "Renewable Resources",
       "Keywords": [
-        "Green Energy",
+        "Green Energy"
       ]
     }
   ],
@@ -64,7 +64,7 @@
         "HTML",
         "CSS",
         "Semantic UI React",
-        "Meteor & Galaxy",
+        "Meteor & Galaxy"
       ]
     },
     {
@@ -73,7 +73,7 @@
       "keywords": [
         "MacOS",
         "Git/GitHub",
-        "IntelliJ",
+        "IntelliJ"
       ]
     }
   ],
@@ -87,7 +87,7 @@
       "gpa": "3.28",
       "courses": [ "Discrete Math", "Linear Algebra", "Software Development",
         "Algorithms", "Machine Learning", "Probability", "Statistics", "Vector Analysis", "Numerical Analysis", "Calculus I-IV",
-        "Film Photography",
+        "Film Photography"
       ]
     }
   ],
@@ -100,7 +100,7 @@
       "endDate": "2020-07-31",
       "summary": "Oversee the utilization and access of Volunteer Connection (VCN), the official American Red Cross Volunteer management system",
       "highlights": [
-        "Teaching VCN to new volunteers", "Troubleshooting technical difficulties", "Managing a growing team", "Training others in the responsibilities of the role of VCN Lead",
+        "Teaching VCN to new volunteers", "Troubleshooting technical difficulties", "Managing a growing team", "Training others in the responsibilities of the role of VCN Lead"
       ]
     },
     {
@@ -111,7 +111,7 @@
       "endDate": "Present",
       "summary": "Public relations and rule enforcement",
       "highlights": [
-        "Light pool maintenance", "Instruction of learn to swim lessons", "General lifeguarding duties",
+        "Light pool maintenance", "Instruction of learn to swim lessons", "General lifeguarding duties"
       ]
     },
     {
