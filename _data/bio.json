@@ -94,11 +94,13 @@
   "work": [
     {
       "company": "American Red Cross",
-      "position": "Volunteer Services: Volunteer Connection Lead",
-      "website": "",
-      "startDate": "Jan",
-      "endDate": "July",
-      "summary": "Oversee the utilization and access of Volunteer Connection (VCN), the official American Red Cross Volunteer management system",
+      "position": "Volunteer Services: Volunteer Connection Lead Intern",
+      "website": "https://www.redcross.org/",
+      "startDate": "",
+      "endDate": "2020-07-31",
+      "startMonth": "January",
+      "endMonth": "July,",
+      "summary": "Volunteer to oversee the utilization and access of Volunteer Connection (VCN), the official American Red Cross Volunteer management system",
       "highlights": [
         "Teaching VCN to new volunteers", "Troubleshooting technical difficulties", "Managing a growing team", "Training others in the responsibilities of the role of VCN Lead"
       ]
@@ -108,18 +110,34 @@
       "position": "Lifeguard",
       "website": "",
       "startDate": "2016-05-01",
-      "endDate": "Present",
+      "endDate": "2020-09-01",
+      "startMonth": "",
+      "endMonth": "",
       "summary": "Public relations and rule enforcement",
       "highlights": [
         "Light pool maintenance", "Instruction of learn to swim lessons", "General lifeguarding duties"
       ]
     },
     {
+      "company": "Great Clips",
+      "position": "Receptionist",
+      "website": "https://www.greatclips.com/",
+      "startDate": "",
+      "endDate": "2020-06-30",
+      "startMonth": "June 1st",
+      "endMonth": "June 30th,",
+      "summary": "Customer management and sanitation",
+      "highlights": [
+        "Greeted and directed customers", "Processed transactions and issued reciepts", "Confirmed customer appointments and information via POS system", "Answered questions about services", "Maintained proper sanitation and enforced COVID-19 safety guidelines"
+      ]
+    },
+    {
       "company": "Aloha Council BSA",
       "position": "Merit Badge Counselor & Lifeguard",
       "website": "",
-      "startDate": "2013",
-      "endDate": "2014",
+      "startDate": "",
+      "endDate": "",
+      "startMonth": "Summer 2013 & 2014",
       "summary": "Running Program Events and Teaching",
       "highlights": [
         "Teaching scout skills and merit badge classes while inspiring young scouts", "Showing high levels of enthusiasum", "Living the Scout Oath and Law"
