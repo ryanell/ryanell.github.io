@@ -9,10 +9,10 @@
     "summary": "A Graduate from University of Hawaii at Manoa with a Bachelors of Science of Mathematics with Data Science. Searching for career opportunities in the COVID-19 job market.",
     "location": {
       "address": "",
-      "postalCode": "96744",
-      "city": "Kaneohe",
+      "postalCode": "93422",
+      "city": "Atascadero",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "California"
     },
     "profiles": [
       {
@@ -63,6 +63,7 @@
         "Python",
         "HTML",
         "CSS",
+        "Semantic UI",
         "Semantic UI React",
         "Meteor & Galaxy"
       ]
