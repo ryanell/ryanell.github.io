@@ -1,0 +1,224 @@
+<div style="margin-top: 10px; " class="ui stackable grid container"> <!--Triple column on the top-->
+
+  <div class="sixteen wide column no-bottom">
+    <h2 class="ui center aligned header no-bottom">{{ site.data.bio.basics.name }}</h2> <!--Ryan Ell-->
+  </div>
+
+  <div class="four wide left aligned column">
+    {% include bio-network-links.html %} <!--Links to profiles on Left side -->
+  </div>
+
+  <div class="eight wide center aligned column">
+    <br/>
+    {{ site.data.bio.basics.summary }} <!--Summary in center-->
+  </div>
+
+  <div class="four wide right aligned column">
+    {% include bio-address.html %} <!--Address on the right-->
+  </div>
+</div>
+<br/>
+<br/>
+
+<div style="margin-top: 10px; " class="ui stackable grid container"> <!--Two columns below the triple-->
+
+  <div class="eleven wide left aligned column"> <!--Left column-->
+
+    <!--*************************************************************  Interests Section  **************************-->
+    <div class="row">
+      <div class="two wide column">
+        <h3 class="ui left aligned header no-bottom">Interests</h3>
+      </div>
+
+      <div class="fourteen wide column no-bottom">
+        <p style="padding-bottom: 30px; padding-left: 35px; padding-top: 15px">
+          {% for entry in site.data.bio.interests %}
+          {{ entry.name }}
+          <!-- Unfortunately the following must all be on a single line so that there are no spaces before the commas. -->
+          {% if entry.keywords and entry.keywords.size > 0 %}({% for keyword in entry.keywords %}{{ keyword }}{% if forloop.last != true %}, {% endif %}{% endfor %}){% endif %}{% if forloop.last != true %}, {% endif %}
+          {% endfor %}
+        </p>
+      </div>
+    </div>
+
+
+    <div class="sixteen wide column no-bottom">
+      <h3 class="ui left aligned header no-bottom">Professional Experience</h3>
+      <hr style="margin: 0px;">
+    </div>
+
+
+    <!-- **************************************************  Work Experience Section   **************************** -->
+    {% for entry in site.data.bio.work %}
+    <div class="twelve wide column no-bottom">
+      <p class="ui no-bottom"><b>{{ entry.position }}, {{ entry.company }}</b></p>
+      <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}
+      </a></p>
+    </div>
+    <div class="four wide right aligned column no-bottom">
+      <p class="ui no-bottom"><b>
+        {% if entry.startMonth %}
+        {{ entry.startMonth }}
+        {% endif %}
+        {% if entry.startDate %}
+        {{ entry.startDate | slice: 0,4 }}
+        {% endif %}
+        {% if entry.startDate and entry.endDate != "" %}
+        -
+        {% endif %}
+        {% if entry.endDate %}
+        {% if entry.endDate != "Present" %}
+        {{ entry.endMonth }}
+        {{ entry.endDate | slice: 0,4 }}
+        {% else %}
+        {{ entry.endDate }}
+        {% endif %}
+        {% endif %}
+      </b></p>
+    </div>
+
+    <div style="padding-top: 0px;" class="sixteen wide column no-bottom">
+      <p class="ui no-bottom">{{ entry.summary }}</p>
+      {% if entry.highlights %}
+      <ul style="margin: 0px;">
+        {% for highlight in entry.highlights %}
+        <li>{{ highlight }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+    {% endfor %}
+
+    <div class="sixteen wide column no-bottom">
+      <h3 class="ui left aligned header no-bottom">Education</h3>
+      <hr style="margin: 0px;">
+    </div>
+
+    <!--********************************************************************  Education Section  ********************-->
+    {% for entry in site.data.bio.education %}
+    <div class="twelve wide column no-bottom">
+      <p class="ui no-bottom"><b>{{ entry.institution }}</b></p>
+      <p class="ui no-bottom">{{ entry.studyType }}, {{ entry.area }}</p>
+      {% if entry.courses %}
+      <ul style="margin: 0px;">
+        {% for course in entry.courses %}
+        <li>{{ course }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+    <div class="four wide right aligned column no-bottom">
+      <p class="ui no-bottom"><b>
+        {% if entry.startDate %}
+        {{ entry.startDate | slice: 0,4 }}
+        {% endif %}
+        {% if entry.startDate and entry.startDate != '' and entry.endDate and entry.endDate != '' %}
+        -
+        {% endif %}
+        {% if entry.endDate %}
+        {% if entry.endDate != "Present" %}
+        {{ entry.endDate | slice: 0,4 }}
+        {% else %}
+        {{ entry.endDate }}
+        {% endif %}
+        {% endif %}
+      </b></p>
+    </div>
+    {% endfor %}
+
+    <!--*******************************************************************  Awards Section ************************-->
+    {% assign hasGrant = false %}
+    {% assign hasNonGrant = false %}
+    {% for entry in site.data.bio.awards %}
+    {% if entry.type == "grant" %}
+    {% assign hasGrant = true %}
+    {% elsif entry.type != "grant" %}
+    {% assign hasNonGrant = true %}
+    {% endif %}
+    {% endfor %}
+
+    {% if hasGrant %}
+    <div class="sixteen wide column no-bottom">
+      <h3 class="ui left aligned header no-bottom">Grant Support</h3>
+      <hr style="margin: 0px;">
+    </div>
+
+    <div class="sixteen wide column no-bottom">
+      {% for entry in site.data.bio.awards %}
+      {% if entry.type == "grant" %}
+      <p class="ui no-bottom">
+        <b>{{ entry.title }}</b>, {{ entry.awarder }}{% if entry.date %}, {{ entry.date }}{% endif %}
+      </p>
+      <p class="ui">{{ entry.summary }}</p>
+      {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if hasNonGrant %}
+    <div class="sixteen wide column no-bottom">
+      <h3 class="ui left aligned header no-bottom">Awards and Honors</h3>
+      <hr style="margin: 0px;">
+    </div>
+
+    <div class="sixteen wide column no-bottom">
+      {% for entry in site.data.bio.awards %}
+      {% if entry.type != "grant" %}
+      <p class="ui no-bottom">
+        <b>{{ entry.title }}</b><br>
+        <i>{{ entry.awarder }}, {{ entry.date }}</i>
+      </p>
+      <p class="ui">{{ entry.summary }}</p>
+      {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <!--**********************************************************************  References Section *****************-->
+    {% if site.data.bio.references %}
+    <div class="row">
+      <div class="two wide column">
+        <h3 class="ui left aligned header no-bottom">References</h3>
+      </div>
+
+      <div class="fourteen wide column no-bottom">
+        <p class="ui no-bottom">
+          {% for entry in site.data.bio.references %}
+          {{ entry.name }}
+          {% if entry.reference and entry.reference.size > 0 %}
+          <em>{{ entry.reference }}</em>
+          {% endif %}
+          {% endfor %}
+        </p>
+      </div>
+    </div>
+    {% endif %}
+
+  </div>
+
+  <!--***********************************************************************  Skills column  ***********************-->
+  <div class="five wide right aligned column">
+
+    {% if site.data.bio.skills %}
+    <div class="row">
+      <div class="two wide column">
+        <h3 class="ui left aligned header no-bottom">Skills</h3>
+      </div>
+
+      <div class="fourteen wide column no-bottom">
+        <p class="ui no-bottom">
+          {% for entry in site.data.bio.skills %}
+        <p class="ui no-bottom">
+          <b>{{ entry.name }}:</b>
+          {% for keyword in entry.keywords %}
+          {{ keyword }}{% if forloop.last != true %}, {% endif %}
+          {% endfor %}
+        </p>
+        {% endfor %}
+
+      </div>
+    </div>
+    {% endif %}
+
+  </div>
+</div>

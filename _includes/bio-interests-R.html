@@ -1,4 +1,4 @@
-<!-- Used by theme-bio-B -->
+<!-- Used by theme-bio-R -->
 
 {% if site.data.bio.interests %}
 <div class="row">
@@ -7,12 +7,12 @@
   </div>
 
   <div class="fourteen wide column no-bottom">
-    <p style="padding-bottom: 30px; padding-left: 35px; padding-top: 15px">
-    {% for entry in site.data.bio.interests %}
+    <p class="ui no-bottom">
+      {% for entry in site.data.bio.interests %}
       {{ entry.name }}
       <!-- Unfortunately the following must all be on a single line so that there are no spaces before the commas. -->
       {% if entry.keywords and entry.keywords.size > 0 %}({% for keyword in entry.keywords %}{{ keyword }}{% if forloop.last != true %}, {% endif %}{% endfor %}){% endif %}{% if forloop.last != true %}, {% endif %}
-    {% endfor %}
+      {% endfor %}
     </p>
   </div>
 </div>
