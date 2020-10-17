@@ -1,35 +1,53 @@
 ---
-layout: default
+layout: calculator
 ---
 
-<div class="container">
-  <h1>
-    Calculator
-  </h1>
-
-  <div class="calculator">
-    <div class="calc-display">
-      0
+<div class="mycalc">
+  <form name="calculator" id="calculator">
+    <input type="text" name="inputwindow" id="inputwindow">
+    <div>
+      <input type="button" id="one" value="1" onclick="takeValue(document.getElementById('one').value)">
+      <input type="button" id="two" value="2" onclick="takeValue(document.getElementById('two').value)">
+      <input type="button" id="three" value="3" onclick="takeValue(document.getElementById('three').value)">
+      <input type="button" id="plus" value="+" onclick="takeValue(document.getElementById('plus').value)">
+    </div>
+    <div>
+      <input type="button" id="four" value="4" onclick="takeValue(document.getElementById('four').value)">
+      <input type="button" id="five" value="5" onclick="takeValue(document.getElementById('five').value)">
+      <input type="button" id="six" value="6" onclick="takeValue(document.getElementById('six').value)">
+      <input type="button" id="minus" value="-" onclick="takeValue(document.getElementById('minus').value)">
+    </div>
+    <div>
+      <input type="button" id="seven" value="7" onclick="takeValue(document.getElementById('seven').value)">
+      <input type="button" id="eight" value="8" onclick="takeValue(document.getElementById('eight').value)">
+      <input type="button" id="nine" value="9" onclick="takeValue(document.getElementById('nine').value)">
+      <input type="button" id="by" value="*" onclick="takeValue(document.getElementById('by').value)">
+    </div>
+    <div>
+      <input type="button" id="zero" value="0" onclick="takeValue(document.getElementById('zero').value)">
+      <input type="button" id="decimal" value="." onclick="takeValue(document.getElementById('decimal').value)">
+      <input type="button" id="devide" value="/" onclick="takeValue(document.getElementById('devide').value)">
+      <input type="button" id="percent" value="%" onclick="takeValue(document.getElementById('percent').value)">
+    </div>
+    <div class="results">
+      <input type="button" id="equal" value="=" onclick="calculateResult()">
+      <button type="button" id="clear" value="" onclick="clearInput(document.getElementById('clear').value)">Clear</button>
     </div>
 
-    <div class="calc-buttons">
-      <button class="calc-operator" data-action="add">+</button>
-      <button class="calc-operator" data-action="subtract">-</button>
-      <button class="calc-operator" data-action="multiply">x</button>
-      <button class="calc-operator" data-action="divide">/</button>
-      <button>7</button>
-      <button>8</button>
-      <button>9</button>
-      <button>4</button>
-      <button>5</button>
-      <button>6</button>
-      <button>1</button>
-      <button>2</button>
-      <button>3</button>
-      <button>0</button>
-      <button data-action="decimal">.</button>
-      <button data-action="clear">AC</button>
-      <button class="key-equal" data-action="calculate">=</button>
-    </div>
-  </div>
+  </form>
 </div>
+
+<script>
+  function takeValue(x) {
+    document.getElementById('inputwindow').value += x;
+  }
+
+  function clearInput(y) {
+    document.getElementById('inputwindow').value = y;
+  }
+
+  function calculateResult() {
+    var result = eval(document.getElementById('inputwindow').value);
+    document.getElementById('inputwindow').value = result;
+  }
+</script>
