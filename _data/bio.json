@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Ryan Ell",
-    "label": "Math with Data Science Graduate",
+    "label": "Software Developer / Data Analyst",
     "picture": "https://ryanell.github.io/images/Ryan.png",
     "email": "ryan.ell42@gmail.com",
     "phone": "",
     "website": "https://ryanell.github.io",
-    "summary": "A Graduate from University of Hawaii at Manoa with a Bachelors of Science of Mathematics with Data Science. Searching for career opportunities in the COVID-19 job market.",
+    "summary": "A Graduate from University of Hawaii at Manoa with a Bachelors of Science of Mathematics with Data Science. open to career opportunities.",
     "location": {
       "address": "",
-      "postalCode": "93422",
-      "city": "Atascadero",
+      "postalCode": "97070",
+      "city": "Wilsonville",
       "countryCode": "USA",
-      "region": "California"
+      "region": "Oregon"
     },
     "profiles": [
       {
@@ -63,6 +63,7 @@
         "Python",
         "HTML",
         "CSS",
+        "ReactJS",
         "Semantic UI",
         "Semantic UI React",
         "Meteor & Galaxy"
@@ -81,7 +82,7 @@
       "name": "Languages",
       "level": "Intermediate",
       "keywords": [
-        "Spanish",
+        "Spanish"
       ]
     }
   ],
@@ -100,6 +101,19 @@
     }
   ],
   "work": [
+    {
+      "company": "Safe Harbor Solutions LLC",
+      "position": "Software Developer / Data Analyst",
+      "website": "https://www.safeharborsolutionsllc.com/",
+      "startDate": "2023-01-01",
+      "endDate": "",
+      "startMonth": "January",
+      "endMonth": "",
+      "summary": "Develop and support data and software solutions for our Senior Living Management Clients.",
+      "highlights": [
+        "Oversaw and removed roadblocks for projects", "Supported and Modernized Microsoft Access Applications", "Wrote and maintained SQL Stored Procedures and jobs", "Built a Payroll Change Notice System in ReactJS"
+      ]
+    },
     {
       "company": "Target",
       "position": "Seasonal Team Member (Consumables)",
