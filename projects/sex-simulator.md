@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sexsimcard.png
+image: images/latexfair.jpg
 title: Educational Latex Fair Project
 permalink: projects/simulator
 # All dates must be YYYY-MM-DD format!
@@ -22,7 +22,7 @@ For this project I performed all of the programming in eclipse using Java, with 
 
 Our project won that year's latex fair. The teachers, TAs and other students found it to be a novelty as no other students in the past had created a video game for the fair before.
 
-<img class="ui medium left floated rounded image" src="../images/sexsimwin.png">
+<img class="ui medium left floated rounded image" src="../images/sexsimcard.png">
 
 This project opened my eyes to how programming could be used in many fields in different ways. I knew at the time that I didn't make my game that complicated or use many higher level concepts, but it got me excited to learn more in order to create more sophisticated programs and applications.
 
