@@ -6,7 +6,7 @@
     "email": "ryan.ell42@gmail.com",
     "phone": "",
     "website": "https://ryanell.github.io",
-    "summary": "A Graduate from University of Hawaii at Manoa with a Bachelors of Science of Mathematics with Data Science. open to career opportunities.",
+    "summary": "Software Developer, Data Analyst and Project Manager. Eager to learn new technologies, skills, and industries to apply them in",
     "location": {
       "address": "",
       "postalCode": "97070",
@@ -29,10 +29,7 @@
   },
   "interests": [
     {
-      "name": "Theoretical Mathematics",
-      "keywords": [
-        "Probability & Statistics"
-      ]
+      "name": "Web Development"
     },
     {
       "name": "Data Science",
@@ -41,48 +38,52 @@
       ]
     },
     {
-      "name": "STEM",
-      "keywords": [
-        "Science, Technology, Engineering and Mathematics"
-      ]
-    },
-    {
       "name": "Renewable Resources",
       "Keywords": [
         "Green Energy"
+      ]
+    },
+    {
+      "name": "Theoretical Mathematics",
+      "keywords": [
+        "Probability & Statistics"
+      ]
+    },
+    {
+      "name": "Games and Media",
+      "keywords": [
+        "Tabletop boardgames & RPGs, Video games"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Programming Languages and Frameworks",
+      "name": "Computer Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Javascript (Node, React, MUI, Puppeteer)",
+        "Python (Django, Pandas, sqlalchemy)",
         "Java",
-        "Javascript",
-        "Python",
-        "HTML",
-        "CSS",
-        "ReactJS",
-        "Semantic UI",
-        "Semantic UI React",
-        "Meteor & Galaxy"
+        "HTML"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Tools & Software",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Git/GitHub",
-        "IntelliJ"
+        "GitHub",
+        "Monday.com",
+        "Connectwise PSA",
+        "Figma",
+        "Microsoft Office Suite",
+        ""
       ]
     },
     {
-      "name": "Languages",
+      "name": "Human Languages",
       "level": "Intermediate",
       "keywords": [
-        "Spanish"
+        "Spanish (Conversational)"
       ]
     }
   ],
@@ -94,8 +95,17 @@
       "startDate": "2016-09-01",
       "endDate": "2020-5-16",
       "gpa": "3.28",
-      "courses": [ "Discrete Math", "Linear Algebra", "Software Development",
-        "Algorithms", "Machine Learning", "Probability", "Statistics", "Vector Analysis", "Numerical Analysis", "Calculus I-IV",
+      "courses": [
+        "Discrete Math",
+        "Linear Algebra",
+        "Software Development",
+        "Algorithms",
+        "Machine Learning",
+        "Probability",
+        "Statistics",
+        "Vector Analysis",
+        "Numerical Analysis",
+        "Calculus I-IV",
         "Film Photography"
       ]
     }
@@ -108,10 +118,62 @@
       "startDate": "2023-01-01",
       "endDate": "",
       "startMonth": "January",
-      "endMonth": "",
+      "endMonth": "Present",
       "summary": "Develop and support data and software solutions for our Senior Living Management Clients.",
       "highlights": [
-        "Oversaw and removed roadblocks for projects", "Supported and Modernized Microsoft Access Applications", "Wrote and maintained SQL Stored Procedures and jobs", "Built a Payroll Change Notice System in ReactJS"
+        "Develop and manage custom web applications (Javascript, Python, SQL) and executive-level Power BI reports based on stakeholder requirements and feedback.",
+        "Build API Integrations between third-party providers and custom client applications using Python and SQL.",
+        "Automate and standardize manual reports, processes, and data audits/validations.",
+        "Perform quality assurance and testing on software products and systems before their release and update.",
+        "Develop SQL stored procedures and backend structure for legacy application modernization and newly developed applications",
+        "Document tables, stored procedures, and systems used in various products and software (Power BI, Access, SQL, etc…)",
+        "Create and update Pro Forma reports for retirement and assisted living facilities using proprietary budgeting software based on standards provided by stakeholders"
+      ]
+    },
+    {
+      "company": "Safe Harbor Solutions LLC",
+      "position": "IT Project Team Manager",
+      "website": "https://www.safeharborsolutionsllc.com/",
+      "startDate": "2022-08-01",
+      "endDate": "2022-12-01",
+      "startMonth": "August",
+      "endMonth": "December",
+      "summary": "",
+      "highlights": [
+        "Trained and supervised new employees in standard operating procedures.",
+        "Ensured team members successfully implemented projects and adhered to operating procedures."
+      ]
+    },
+    {
+      "company": "Safe Harbor Solutions LLC",
+      "position": "IT Projects & Accounts Manager",
+      "website": "https://www.safeharborsolutionsllc.com/",
+      "startDate": "2021-06-01",
+      "endDate": "2022-08-01",
+      "startMonth": "June",
+      "endMonth": "August",
+      "summary": "",
+      "highlights": [
+        "Implemented and managed corporate residential networks, phone, and TV system repairs, upgrades, and full overhauls for over 140 locations",
+        "Successfully transitioned facility IT systems and accounts between management and ownership entities.",
+        "Developed and implemented departmental processes and procedures.",
+        "Consolidated and managed residential and business phone, internet, TV, and cell phone accounts"
+      ]
+    },
+    {
+      "company": "Safe Harbor Solutions LLC",
+      "position": "Intern",
+      "website": "https://www.safeharborsolutionsllc.com/",
+      "startDate": "2021-03-08",
+      "endDate": "2021-05-01",
+      "startMonth": "March",
+      "endMonth": "May",
+      "summary": "",
+      "highlights": [
+        "Deployed 900+ remote support agents to workstations across over 130 locations",
+        "Supported the implementation of a corporate office location change",
+        "Researched and implemented new Project Management tools",
+        "Researched functionality and usage of Power BI for report generation"
       ]
     },
     {
@@ -124,7 +186,12 @@
       "endMonth": "January",
       "summary": "Help customers have a pleasant shopping experince while maintaining a clean, fully stocked store",
       "highlights": [
-        "Pushed products to shelves and rotated stock", "Unloaded trucks, back stocked coolers", "Provided speedy and respectful customer service", "Managed POS system and handled monetary transactions", "Fulfilled online orders", "Trained in multiple departments"
+        "Pushed products to shelves and rotated stock",
+        "Unloaded trucks, back stocked coolers",
+        "Provided speedy and respectful customer service",
+        "Managed POS system and handled monetary transactions",
+        "Fulfilled online orders",
+        "Trained in multiple departments"
       ]
     },
     {
@@ -137,7 +204,10 @@
       "endMonth": "July,",
       "summary": "Oversaw the utilization and access of Volunteer Connection (VCN), the official American Red Cross Volunteer management system",
       "highlights": [
-        "Taught VCN to new volunteers", "Troubleshoot technical difficulties", "Managed a growing team", "Trained others in the responsibilities of the role of VCN Lead"
+        "Taught VCN to new volunteers",
+        "Troubleshoot technical difficulties",
+        "Managed a growing team",
+        "Trained others in the responsibilities of the role of VCN Lead"
       ]
     },
     {
@@ -150,7 +220,10 @@
       "endMonth": "",
       "summary": "Public relations and rule enforcement",
       "highlights": [
-        "Enforced pool rules and regulations", "Performed light pool maintenance", "Patron management", "Instructor of learn to swim lessons"
+        "Enforced pool rules and regulations",
+        "Performed light pool maintenance",
+        "Patron management",
+        "Instructor of learn to swim lessons"
       ]
     },
     {
@@ -163,7 +236,11 @@
       "endMonth": "June 30th,",
       "summary": "Customer management and sanitation",
       "highlights": [
-        "Greeted and directed customers", "Processed transactions and issued reciepts", "Confirmed customer appointments and information via POS system", "Answered questions about services", "Maintained proper sanitation and enforced COVID-19 safety guidelines"
+        "Greeted and directed customers",
+        "Processed transactions and issued reciepts",
+        "Confirmed customer appointments and information via POS system",
+        "Answered questions about services",
+        "Maintained proper sanitation and enforced COVID-19 safety guidelines"
       ]
     },
     {
@@ -175,7 +252,9 @@
       "startMonth": "Summer 2013 & 2014",
       "summary": "Running Program Events and Teaching",
       "highlights": [
-        "Taught scout skills and merit badge classes", "Showed high levels of enthusiasum", "Lived the Scout Oath and Law"
+        "Taught scout skills and merit badge classes",
+        "Showed high levels of enthusiasum",
+        "Lived the Scout Oath and Law"
       ]
     }
   ],
