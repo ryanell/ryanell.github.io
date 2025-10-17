@@ -9,7 +9,28 @@ layout: default
   <link rel="stylesheet" href="styles.css" />
 </head>
 
-<nav>
+<header class="site-header">
+  <!-- thin blue border at very top -->
+  <div class="top-stripe" aria-hidden="true"></div>
+
+  <!-- nav bar -->
+  <nav class="navbar" role="navigation" aria-label="Main navigation">
+    <a class="nav-home" href="/" aria-label="Home">
+      <!-- simple home icon (SVG) -->
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
+        <a href="/" fill="currentColor"/>
+      </svg>
+    </a>
+
+    <ul class="nav-links">
+      <li><a href="/resume/" class="nav-link">Resume</a></li>
+      <li><a href="/projects/" class="nav-link">Projects</a></li>
+      <!-- add / remove links as needed -->
+    </ul>
+  </nav>
+</header>
+
+<!-- <nav>
 <div id="home-icon">
   <a href="/">
     <i class="big home icon"></i>
@@ -30,7 +51,7 @@ layout: default
       <p class="menu-buttons">Projects</p>
     </a>
   </div>
-</nav>
+</nav> -->
 
 <p style="padding-left: 20px; padding-top: 48px;">
   Full list of all the job posts that I have applied to (Oct 5th to present)
